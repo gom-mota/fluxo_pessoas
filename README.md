@@ -1,6 +1,6 @@
-# controle_de_fluxo
+# Controle de Pessoas
 
-A new Flutter project.
+Aplicativo feito em flutter relacionado a controle de fluxo de pessoas em um determinado local.
 
 ## Getting Started
 
